@@ -1,0 +1,26 @@
+﻿  Window.cpp
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'Window.cpp')
+  
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(242,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(243,22): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(247,28): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(248,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(250,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(251,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  practica5.cpp
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica5.cpp')
+  
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica5.cpp')
+  
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\practica5.cpp(379,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\practica5.cpp(383,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\practica5.cpp(615,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\Ejerciciop5\Window.cpp(96,1): warning C4715: 'Window::Initialise': not all control paths return a value
+  Ejerciciop5.vcxproj -> C:\Practicas Compu Grafica\P5\Ejercicio\Ejerciciop5\x64\Debug\Ejerciciop5.exe
